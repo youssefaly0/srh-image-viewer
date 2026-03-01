@@ -8,9 +8,9 @@ This guide will walk you through setting up the project, creating your own modul
 
 ## Project Timeline
 
--   **Project Start:** Friday 27th Februarz
+-   **Project Start:** Friday 27th February
 -   **Contribution Deadline:** All pull requests must be created and submitted by **Thursday, 05th at 11.59pm**.
--   **Project Presentation:** Friday 06th
+-   **Project Presentation:** Friday 06th March
 
 ## 1. Project Setup
 
