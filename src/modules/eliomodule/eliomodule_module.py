@@ -265,4 +265,5 @@ class EliomoduleImageModule(IImageModule):
         # Ensure output data type is consistent (e.g., convert back to uint8 if processing changed it)
         processed_data = processed_data.astype(image_data.dtype)
 
-        return processed_data
+
+        return processed_data    #end
